@@ -9,8 +9,8 @@ Airline_fare Upsell performance Data : The Primary dataset used for the analysis
 
 ### Tools
 
-MS SQL Server - Data cleaning,Data Analysis
-PowerBI - Creating Report & Dashboard
+- MS SQL Server - Data cleaning,Data Analysis
+- PowerBI - Creating Report & Dashboard
 
 ### Data Cleaning/Preparation
 
