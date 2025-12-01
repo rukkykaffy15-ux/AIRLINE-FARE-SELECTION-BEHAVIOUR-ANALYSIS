@@ -5,7 +5,7 @@
 
 ### DATA SOURCES
 
-Airline_fare Upsell performance Data : The Primary dataset used for the analysis is the Airline_Fare_Upsell_performance.csv file containing the major data for the analysis.
+Airline_fare Upsell performance Data : The Primary dataset used for the analysis is the Airline_Fare_Upsell_performance.xlsx file containing the major data for the analysis.
 
 ### Tools
 
